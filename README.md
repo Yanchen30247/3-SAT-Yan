@@ -186,7 +186,7 @@ data/
 - Elite: 2
 - Crossover: 0.8
 - Mutation: 0.01
-- Generations: 1000
+- Generations: 100
 - Stall: 50
 
 ### WoC Configuration
@@ -260,4 +260,5 @@ python WOC.py
 
 CSE545 Final Project
 Date: November 10, 2025
+
 
