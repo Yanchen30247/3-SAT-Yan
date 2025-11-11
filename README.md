@@ -239,16 +239,6 @@ python WOC.py
 8. **Conflict Repair**: WalkSAT for post-consensus refinement
 9. **Iterative Refinement**: Feeds solutions back to improve consensus
 
-## Future Extensions
-
-- [ ] Implement more sophisticated local search (Novelty+)
-- [ ] Add clause learning mechanisms
-- [ ] Parallel island model GA
-- [ ] Adaptive parameter control
-- [ ] Integration with SAT solver backends
-- [ ] Visualization of convergence and diversity
-- [ ] Benchmark comparison with state-of-the-art solvers
-
 ## References
 
 - GSAT/WalkSAT algorithms
@@ -260,5 +250,6 @@ python WOC.py
 
 CSE545 Final Project
 Date: November 10, 2025
+
 
 
